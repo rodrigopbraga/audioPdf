@@ -28,8 +28,8 @@ Additional Notes
 
     . The script demonstrates how to use the PyPDF2 library to extract text from PDF files and the pyttsx3 library to generate audio output.
     . You can experiment with different voices and speech rates by modifying the script to suit your preferences.
-      Currently setted to use the main voice in your OS;
+      Currently setted to use the English voice if present in OS;
       Currently setted to read it at 200 (two hundred) words per minute;
     . You can listen as a test to all the voices installed in your OS with the test_voices() function.
 
-If you encounter any issues or have suggestions for enhancements, please create an issue or submit a pull request on GitHub. Enjoy converting your PDF documents to audio effortlessly!
+If you encounter any issues or have suggestions for enhancements, please create an issue or submit a pull request.
